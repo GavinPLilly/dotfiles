@@ -1,0 +1,7 @@
+/*
+!.gitignore
+!fish/
+!hypr/
+!kitty/
+!nvim/
+nvim/pack
