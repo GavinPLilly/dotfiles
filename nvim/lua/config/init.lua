@@ -1,5 +1,5 @@
+require('config/options')
 require('config/plugin-config')
 require('config/functions')
 require('config/keymappings')
 require('config/lsp')
-require('config/options')
